@@ -1,0 +1,9 @@
+.nav{
+    height: 100px;
+    widows: 100%;
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+   align-items: center;
+   font-size:xx-large;
+}
