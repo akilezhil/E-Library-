@@ -1,9 +1,19 @@
-.nav{
-    height: 100px;
-    widows: 100%;
+.nav {
     background-color: antiquewhite;
+    height: 90px;
+    widows: 100%;
     display: flex;
-    justify-content: center;
-   align-items: center;
-   font-size:xx-large;
+    gap: 30px;
+    justify-content: space-between;
+    align-items: center;
+}
+ul{
+    color: black;
+    display: flex;
+    gap: 30px;
+    align-items: center;
+
+}
+h1{
+    color: brown;
 }

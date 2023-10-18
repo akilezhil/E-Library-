@@ -1,0 +1,23 @@
+.store {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  .data1 {
+    width: 20%; 
+    margin: 7px;
+    border: 1px solid #ddd;
+    padding: 10px;
+    background-color: #f9f9f9;
+    text-align: center;
+  }
+  h1 {
+    font-size: 15px;
+    margin: 10px 0;
+  }
+  img {
+    max-width: 50%;
+    height: auto;
+    margin: 10px 50px;
+  }
+  

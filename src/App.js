@@ -13,7 +13,7 @@ function App() {
       <Navbar/>
       <Home/>
       <Book/>
-      <Shimmer/>
+      {/* <Shimmer/> */}
       <Footer/>
     </div>
   )

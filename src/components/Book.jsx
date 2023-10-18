@@ -17,7 +17,9 @@ function Book() {
         <div>
             <div className='fel'>
                 {/* <AiOutlineSearch className='ai' /> */}
-                <input className="inp" onChange={(e) => setSearchTerm(e.target.value)}placeholder='search your book here' type="text" ></input>             
+                <h1> Search your</h1>
+                <input className="inp" onChange={(e) => setSearchTerm(e.target.value)}placeholder='   Enter your book name' type="text" ></input> 
+                <h2>here</h2>            
             </div>
             <div className='store'>
                 {
